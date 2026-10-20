@@ -1,4 +1,4 @@
-## Current release
+ ## Current release
 
 [![Build status](https://ci.appveyor.com/api/projects/status/0r57edi8jdaa3408?svg=true)](https://ci.appveyor.com/project/rexdex/recompiler)
 
