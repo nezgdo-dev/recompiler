@@ -502,4 +502,3 @@ It takes around 300 functions to get the simple app to start. Most of the are ve
 ## Future Work
 
 Well, it would be much cooler to run an actual game, maybe someday :)
-
