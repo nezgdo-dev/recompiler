@@ -47,7 +47,7 @@ Stuff currently implemented:
 ***GPU***:
 
 + AMD Microcode shader disassembly and recompilation into DX11 HLSL shaders
-+ Command buffer parser and executor
++ Command buffer parser and executor 
 + Very simple EDRAM simulator
 + Trace dump functionality
  
